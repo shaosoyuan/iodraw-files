@@ -13,6 +13,14 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="eMugruA4B65rozoRaZjg-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eMugruA4B65rozoRaZjg-2" target="eMugruA4B65rozoRaZjg-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="520" />
+              <mxPoint x="200" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eMugruA4B65rozoRaZjg-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eMugruA4B65rozoRaZjg-2" target="eMugruA4B65rozoRaZjg-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eMugruA4B65rozoRaZjg-2" value="用户管理模块" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=2;fontFamily=Garamond;fontSize=18;align=center;" vertex="1" parent="1">
