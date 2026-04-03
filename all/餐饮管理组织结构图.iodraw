@@ -10,7 +10,7 @@
         <mxCell id="eMugruA4B65rozoRaZjg-24" value="id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="620" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="eMugruA4B65rozoRaZjg-26" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;创建者ID&lt;/span&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eMugruA4B65rozoRaZjg-26" value="&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;用户组&lt;/font&gt;ID&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="405" y="520" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eMugruA4B65rozoRaZjg-27" value="&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;描述&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -19,7 +19,7 @@
         <mxCell id="eMugruA4B65rozoRaZjg-28" value="&lt;span style=&quot;font-family: 宋体;&quot;&gt;创建时间&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="475" y="544" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="eMugruA4B65rozoRaZjg-29" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;名称&lt;/span&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eMugruA4B65rozoRaZjg-29" value="&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;用户&lt;/font&gt;ID&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="580" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eMugruA4B65rozoRaZjg-36" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="eMugruA4B65rozoRaZjg-26">
