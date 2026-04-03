@@ -44,7 +44,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="eMugruA4B65rozoRaZjg-2" value="文件管理模块" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=2;fontFamily=Garamond;fontSize=18;align=center;" vertex="1" parent="1">
+        <mxCell id="eMugruA4B65rozoRaZjg-2" value="搜索服务模块" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=2;fontFamily=Garamond;fontSize=18;align=center;" vertex="1" parent="1">
           <mxGeometry x="400" y="400" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="eMugruA4B65rozoRaZjg-12" value="目录管理" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=2;fontFamily=Garamond;fontSize=18;align=center;" vertex="1" parent="1">
