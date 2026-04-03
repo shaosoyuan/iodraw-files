@@ -31,10 +31,10 @@
         <mxCell id="eMugruA4B65rozoRaZjg-2" value="通知服务模块" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=2;fontFamily=Garamond;fontSize=18;align=center;" vertex="1" parent="1">
           <mxGeometry x="400" y="400" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="eMugruA4B65rozoRaZjg-12" value="操作审计" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=2;fontFamily=Garamond;fontSize=18;align=center;" vertex="1" parent="1">
+        <mxCell id="eMugruA4B65rozoRaZjg-12" value="通知管理" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=2;fontFamily=Garamond;fontSize=18;align=center;" vertex="1" parent="1">
           <mxGeometry x="520" y="560" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="eMugruA4B65rozoRaZjg-15" value="勒索病毒检测" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=2;fontFamily=Garamond;fontSize=18;align=center;" vertex="1" parent="1">
+        <mxCell id="eMugruA4B65rozoRaZjg-15" value="通知发送" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=2;fontFamily=Garamond;fontSize=18;align=center;" vertex="1" parent="1">
           <mxGeometry x="400" y="560" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="eMugruA4B65rozoRaZjg-16" value="通知生成" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=2;fontFamily=Garamond;fontSize=18;align=center;" vertex="1" parent="1">
