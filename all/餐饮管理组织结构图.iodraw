@@ -10,9 +10,6 @@
         <mxCell id="eMugruA4B65rozoRaZjg-24" value="id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="620" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="eMugruA4B65rozoRaZjg-25" value="&lt;span style=&quot;font-family: 宋体; font-size: 13px;&quot;&gt;知识库描述&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="405" y="730" width="70" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="eMugruA4B65rozoRaZjg-26" value="&lt;span style=&quot;font-family: 宋体; font-size: 14px;&quot;&gt;是否在知识库中&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="405" y="520" width="70" height="40" as="geometry" />
         </mxCell>
@@ -34,22 +31,10 @@
         <mxCell id="eMugruA4B65rozoRaZjg-32" value="&lt;font face=&quot;宋体&quot;&gt;创建时间&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="660" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="eMugruA4B65rozoRaZjg-33" value="&lt;span style=&quot;font-family: 宋体; font-size: 13px;&quot;&gt;用户ip&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="344" y="700" width="70" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="eMugruA4B65rozoRaZjg-34" value="&lt;span style=&quot;font-family: 宋体; font-size: 14px;&quot;&gt;索引状态&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="475" y="700" width="70" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="eMugruA4B65rozoRaZjg-36" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="eMugruA4B65rozoRaZjg-26">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="440" y="600" as="sourcePoint" />
             <mxPoint x="490" y="550" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="eMugruA4B65rozoRaZjg-37" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="eMugruA4B65rozoRaZjg-34" target="eMugruA4B65rozoRaZjg-23">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="470" y="730" as="sourcePoint" />
-            <mxPoint x="470" y="670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="eMugruA4B65rozoRaZjg-38" value="" style="endArrow=none;html=1;rounded=0;exitX=0.71;exitY=0.047;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="eMugruA4B65rozoRaZjg-23" target="eMugruA4B65rozoRaZjg-28">
@@ -70,22 +55,10 @@
             <mxPoint x="350" y="610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eMugruA4B65rozoRaZjg-42" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="440" y="730" as="sourcePoint" />
-            <mxPoint x="439.79" y="680" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="eMugruA4B65rozoRaZjg-43" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="eMugruA4B65rozoRaZjg-23" target="eMugruA4B65rozoRaZjg-27">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="413" y="607" as="sourcePoint" />
             <mxPoint x="389" y="580" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="eMugruA4B65rozoRaZjg-44" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="eMugruA4B65rozoRaZjg-33" target="eMugruA4B65rozoRaZjg-23">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="425" y="693.5" as="sourcePoint" />
-            <mxPoint x="401" y="666.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="eMugruA4B65rozoRaZjg-46" value="" style="endArrow=none;html=1;rounded=0;entryX=0.914;entryY=0.221;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eMugruA4B65rozoRaZjg-30" target="eMugruA4B65rozoRaZjg-23">
