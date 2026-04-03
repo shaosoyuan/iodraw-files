@@ -34,10 +34,10 @@
         <mxCell id="eMugruA4B65rozoRaZjg-12" value="通知管理" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=2;fontFamily=Garamond;fontSize=18;align=center;" vertex="1" parent="1">
           <mxGeometry x="520" y="560" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="eMugruA4B65rozoRaZjg-15" value="通知发送" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=2;fontFamily=Garamond;fontSize=18;align=center;" vertex="1" parent="1">
+        <mxCell id="eMugruA4B65rozoRaZjg-15" value="日志详情" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=2;fontFamily=Garamond;fontSize=18;align=center;" vertex="1" parent="1">
           <mxGeometry x="400" y="560" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="eMugruA4B65rozoRaZjg-16" value="通知生成" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=2;fontFamily=Garamond;fontSize=18;align=center;" vertex="1" parent="1">
+        <mxCell id="eMugruA4B65rozoRaZjg-16" value="操作日志记录" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=2;fontFamily=Garamond;fontSize=18;align=center;" vertex="1" parent="1">
           <mxGeometry x="270" y="560" width="90" height="80" as="geometry" />
         </mxCell>
       </root>
