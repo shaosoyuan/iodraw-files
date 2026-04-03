@@ -44,23 +44,23 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="eMugruA4B65rozoRaZjg-2" value="文件管理模块" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=2;fontFamily=Garamond;fontSize=18;align=center;" vertex="1" parent="1">
+        <mxCell id="eMugruA4B65rozoRaZjg-2" value="搜索服务模块" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=2;fontFamily=Garamond;fontSize=18;align=center;" vertex="1" parent="1">
           <mxGeometry x="400" y="400" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="eMugruA4B65rozoRaZjg-12" value="目录管理" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=2;fontFamily=Garamond;fontSize=18;align=center;" vertex="1" parent="1">
           <mxGeometry x="520" y="560" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="eMugruA4B65rozoRaZjg-13" value="文件上传" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=2;fontFamily=Garamond;fontSize=18;align=center;" vertex="1" parent="1">
+        <mxCell id="eMugruA4B65rozoRaZjg-13" value="文件内容提取" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=2;fontFamily=Garamond;fontSize=18;align=center;" vertex="1" parent="1">
           <mxGeometry x="160" y="560" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="eMugruA4B65rozoRaZjg-14" value="文件预览" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=2;fontFamily=Garamond;fontSize=18;align=center;" vertex="1" parent="1">
           <mxGeometry x="640" y="560" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="eMugruA4B65rozoRaZjg-15" value="文件删除" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=2;fontFamily=Garamond;fontSize=18;align=center;" vertex="1" parent="1">
+        <mxCell id="eMugruA4B65rozoRaZjg-15" value="搜索查询处理" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=2;fontFamily=Garamond;fontSize=18;align=center;" vertex="1" parent="1">
           <mxGeometry x="400" y="560" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="eMugruA4B65rozoRaZjg-16" value="文件下载" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=2;fontFamily=Garamond;fontSize=18;align=center;" vertex="1" parent="1">
-          <mxGeometry x="280" y="560" width="80" height="80" as="geometry" />
+        <mxCell id="eMugruA4B65rozoRaZjg-16" value="Elasticsearch索引管理" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=2;fontFamily=Garamond;fontSize=18;align=center;" vertex="1" parent="1">
+          <mxGeometry x="270" y="560" width="90" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
