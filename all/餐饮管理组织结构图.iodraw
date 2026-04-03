@@ -49,10 +49,10 @@
             <mxPoint x="600" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eHBMIgYKwNoicw80gMCx-19" value="文件管理模块" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=none;strokeWidth=2;fillColor=#6666FF;fontFamily=Garamond;fontSize=18;fontColor=#FFFFFF;align=center;" parent="1" vertex="1">
+        <mxCell id="eHBMIgYKwNoicw80gMCx-19" value="文件管理模块" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=2;fontFamily=Garamond;fontSize=18;align=center;" parent="1" vertex="1">
           <mxGeometry x="80" y="520" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="eHBMIgYKwNoicw80gMCx-20" value="搜索服务模块" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=none;strokeWidth=2;fillColor=#6666FF;fontFamily=Garamond;fontSize=18;fontColor=#FFFFFF;align=center;" parent="1" vertex="1">
+        <mxCell id="eHBMIgYKwNoicw80gMCx-20" value="搜索服务模块" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=2;fontFamily=Garamond;fontSize=18;align=center;" parent="1" vertex="1">
           <mxGeometry x="200" y="520" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="eHBMIgYKwNoicw80gMCx-21" value="安全管理模块" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=2;fontFamily=Garamond;fontSize=18;align=center;" parent="1" vertex="1">
@@ -61,7 +61,7 @@
         <mxCell id="eHBMIgYKwNoicw80gMCx-22" value="通知服务模块" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=2;fontFamily=Garamond;fontSize=18;align=center;" parent="1" vertex="1">
           <mxGeometry x="440" y="520" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="eHBMIgYKwNoicw80gMCx-23" value="日志服务模块" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=none;strokeWidth=2;fillColor=#6666FF;fontFamily=Garamond;fontSize=18;fontColor=#FFFFFF;align=center;" parent="1" vertex="1">
+        <mxCell id="eHBMIgYKwNoicw80gMCx-23" value="日志服务模块" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=2;fontFamily=Garamond;fontSize=18;align=center;" parent="1" vertex="1">
           <mxGeometry x="560" y="520" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="eMugruA4B65rozoRaZjg-1" value="" style="endArrow=none;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fontFamily=Garamond;fontSize=18;fontColor=#000000;align=center;" edge="1" parent="1">
@@ -73,7 +73,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="eMugruA4B65rozoRaZjg-2" value="用户管理模块" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=none;strokeWidth=2;fillColor=#6666FF;fontFamily=Garamond;fontSize=18;fontColor=#FFFFFF;align=center;" vertex="1" parent="1">
+        <mxCell id="eMugruA4B65rozoRaZjg-2" value="用户管理模块" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=2;fontFamily=Garamond;fontSize=18;align=center;" vertex="1" parent="1">
           <mxGeometry x="-40" y="520" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
