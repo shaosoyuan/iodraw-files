@@ -37,7 +37,7 @@
             <mxPoint x="490" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eMugruA4B65rozoRaZjg-38" value="" style="endArrow=none;html=1;rounded=0;exitX=0.71;exitY=0.047;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="eMugruA4B65rozoRaZjg-23" target="eMugruA4B65rozoRaZjg-28">
+        <mxCell id="eMugruA4B65rozoRaZjg-38" value="" style="endArrow=none;html=1;rounded=0;entryX=0.084;entryY=0.871;entryDx=0;entryDy=0;exitX=0.71;exitY=0.047;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="eMugruA4B65rozoRaZjg-23" target="eMugruA4B65rozoRaZjg-28">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="480" y="630" as="sourcePoint" />
             <mxPoint x="480" y="570" as="targetPoint" />
@@ -71,12 +71,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="380" y="620" as="sourcePoint" />
             <mxPoint x="350" y="606" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="eMugruA4B65rozoRaZjg-49" value="" style="endArrow=none;html=1;rounded=0;exitX=0.71;exitY=0.047;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="475" y="614" as="sourcePoint" />
-            <mxPoint x="501" y="591" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
