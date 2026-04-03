@@ -10,19 +10,19 @@
         <mxCell id="eMugruA4B65rozoRaZjg-24" value="id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="620" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="eMugruA4B65rozoRaZjg-26" value="&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;威胁特征&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eMugruA4B65rozoRaZjg-26" value="&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;消息&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="405" y="520" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="eMugruA4B65rozoRaZjg-27" value="&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;扫描状态&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eMugruA4B65rozoRaZjg-27" value="&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;标题&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="343" y="544" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="eMugruA4B65rozoRaZjg-28" value="&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;扫描结果&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eMugruA4B65rozoRaZjg-28" value="&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;是否已读&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="475" y="544" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eMugruA4B65rozoRaZjg-29" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;用户ID&lt;/span&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="580" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="eMugruA4B65rozoRaZjg-30" value="&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;风险评分&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eMugruA4B65rozoRaZjg-30" value="&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;创建时间&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="580" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eMugruA4B65rozoRaZjg-32" value="&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;扫描时间&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
