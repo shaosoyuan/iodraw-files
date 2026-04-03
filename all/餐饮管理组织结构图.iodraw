@@ -12,14 +12,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="eMugruA4B65rozoRaZjg-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eMugruA4B65rozoRaZjg-2" target="eMugruA4B65rozoRaZjg-13">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="440" y="520" />
-              <mxPoint x="200" y="520" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="eMugruA4B65rozoRaZjg-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eMugruA4B65rozoRaZjg-2" target="eMugruA4B65rozoRaZjg-16">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -36,30 +28,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="eMugruA4B65rozoRaZjg-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eMugruA4B65rozoRaZjg-2" target="eMugruA4B65rozoRaZjg-14">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="440" y="520" />
-              <mxPoint x="680" y="520" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="eMugruA4B65rozoRaZjg-2" value="搜索服务模块" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=2;fontFamily=Garamond;fontSize=18;align=center;" vertex="1" parent="1">
+        <mxCell id="eMugruA4B65rozoRaZjg-2" value="通知服务模块" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=2;fontFamily=Garamond;fontSize=18;align=center;" vertex="1" parent="1">
           <mxGeometry x="400" y="400" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="eMugruA4B65rozoRaZjg-12" value="目录管理" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=2;fontFamily=Garamond;fontSize=18;align=center;" vertex="1" parent="1">
+        <mxCell id="eMugruA4B65rozoRaZjg-12" value="操作审计" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=2;fontFamily=Garamond;fontSize=18;align=center;" vertex="1" parent="1">
           <mxGeometry x="520" y="560" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="eMugruA4B65rozoRaZjg-13" value="文件内容提取" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=2;fontFamily=Garamond;fontSize=18;align=center;" vertex="1" parent="1">
-          <mxGeometry x="160" y="560" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="eMugruA4B65rozoRaZjg-14" value="文件预览" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=2;fontFamily=Garamond;fontSize=18;align=center;" vertex="1" parent="1">
-          <mxGeometry x="640" y="560" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="eMugruA4B65rozoRaZjg-15" value="搜索查询处理" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=2;fontFamily=Garamond;fontSize=18;align=center;" vertex="1" parent="1">
+        <mxCell id="eMugruA4B65rozoRaZjg-15" value="勒索病毒检测" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=2;fontFamily=Garamond;fontSize=18;align=center;" vertex="1" parent="1">
           <mxGeometry x="400" y="560" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="eMugruA4B65rozoRaZjg-16" value="Elasticsearch索引管理" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=2;fontFamily=Garamond;fontSize=18;align=center;" vertex="1" parent="1">
+        <mxCell id="eMugruA4B65rozoRaZjg-16" value="异常行为检测" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=2;fontFamily=Garamond;fontSize=18;align=center;" vertex="1" parent="1">
           <mxGeometry x="270" y="560" width="90" height="80" as="geometry" />
         </mxCell>
       </root>
